@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 
 
+Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/pathree/count.svg)
 
