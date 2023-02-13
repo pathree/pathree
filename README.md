@@ -1,5 +1,4 @@
 ### Welcome 👋
-<img src="https://komarev.com/ghpvc/?username=pathree&style=flat-square&color=blue" alt=""/>
 
 <p align="right"> 
   Visitor count<br>
@@ -13,6 +12,7 @@ I am a C/C++ Developer from China.
 
 - :telescope: Working as a SE and contributing to backend for building SSLVPN
 - :seedling: Interested in ChatGPT
+- :see_no_evil: Maybe need a new job
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -24,3 +24,6 @@ I am a C/C++ Developer from China.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp;
 </div>
+
+<br>
+<img src="https://komarev.com/ghpvc/?username=pathree&style=flat-square&color=blue" alt=""/>
