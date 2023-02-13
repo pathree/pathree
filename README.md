@@ -1,3 +1,5 @@
+### Welcome 👋
+<img src="https://komarev.com/ghpvc/?username=pathree&style=flat-square&color=blue" alt=""/>
 
 <p align="right"> 
   Visitor count<br>
@@ -6,13 +8,13 @@
 
 <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pathree&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### :man_technologist: About Me :
-I am a C++ Developer from China.
+#### :man_technologist: About Me :
+I am a C/C++ Developer from China.
 
-- :telescope: Working as a Software Engineer and contributing to backend for building SSLVPN.
-- :seedling: Interested int ChatGPT
+- :telescope: Working as a SE and contributing to backend for building SSLVPN
+- :seedling: Interested in ChatGPT
 
-### :hammer_and_wrench: Languages and Tools :
+#### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
