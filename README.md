@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
-Visitor Count
-(https://profile-counter.glitch.me/pathree/count.svg)
+
+[Visitor Count](https://profile-counter.glitch.me/pathree/count.svg)
 
